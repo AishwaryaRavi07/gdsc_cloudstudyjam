@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Developer Student Club</p>
-              <p className="text-xs">Poornima University, Jaipur</p>
+              <p className="text-xs">Veermata Jijabai Technological Institute (VJTI) - Mumbai</p>
             </div>
           </div>
 
@@ -119,23 +119,9 @@ export default function Home() {
           </div>
         </div>
       </nav>
-      <div className="m-auto w-fit mt-10">
-        {/* <Link href="/profilebadge" className="px-3 py-2 bg-blue-500 text-white">
-          Create Badge
-        </Link> */}
-      </div>
-
       <TableIndex />
 
-      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
-        Devloped By{" "}
-        <a
-          href="https://avayyyyyyy.github.io/shubhlovesweb3/"
-          className="text-orange-400"
-        >
-          Shubhankit Jain
-        </a>
-      </div>
+      
     </>
   );
 }
