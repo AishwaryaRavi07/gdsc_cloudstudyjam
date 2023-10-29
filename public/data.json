@@ -1,5 +1,434 @@
 [
   {
+    "Student Name": "Omkar Kamleshwar Kambre",
+    "Student Email": "okambre2@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 14:42:49 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/046a4cac-d907-4b26-bee1-270fe5d0bb50",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "KASHISH YADAV",
+    "Student Email": "ykashish456@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 14:46:34 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1456e7ff-361b-4417-9de9-856ef0ff8e8e",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Sarid Qureshi",
+    "Student Email": "saridqureshi299@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 14:48:59 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/203ae8b6-4239-47f1-9901-214a7c5c695d",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Minal Ashok Narkhede",
+    "Student Email": "minalnarkhede9@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 15:00:16 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2b0c7024-4da6-4cef-adf8-ab99632f76cf",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Chaitra Samant",
+    "Student Email": "chaitrasamant27@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 15:04:48 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2fd6b6ac-f41e-4672-b98d-0fc8de52ff7f",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Manav Prakash Shah",
+    "Student Email": "manavshah1104@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 15:29:19 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/50139f11-8a85-4d37-9ded-803b9beab949",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Tanvi Satish Khadpe",
+    "Student Email": "khadpe.tanvi@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 15:47:34 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6c66ab09-91de-4f70-a9af-dce400144017",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Aadit Prashant Pujari",
+    "Student Email": "appujari80@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 15:55:49 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/75813c24-4593-4a0d-a003-28662771bb22",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Krinal shah",
+    "Student Email": "krinal0510@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 16:57:56 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/89c31234-b61d-4417-afd6-4d746aaa549f",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Jayash Bhuyar",
+    "Student Email": "jayashbhuyar@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 16:01:21 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8555bf4c-1b4c-4507-844d-9f6c3d0a1a8f",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Vidhi Gurnani",
+    "Student Email": "vidhig2711@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 17:08:55 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/98f3bc13-878e-4afd-9542-bed79827cfe5",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Sangam Rajkumar Nirala",
+    "Student Email": "srnirala_b22@et.vjti.ac.in",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:08:10 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/aac227dc-c82a-415c-95fb-b094326c5b5b",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Srushti Vijay Jadhav",
+    "Student Email": "jadhavsrushti1226@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:12:51 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b78280bb-b5b2-463a-8c3b-b90341eb09ac",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Bhavesh Sanjay Wakode",
+    "Student Email": "bhaveshw2002@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:17:59 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bc19ef60-58fd-4cd0-bfbf-8e784ccfe874",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Prasad Balasaheb Lohakare",
+    "Student Email": "prasadlohakare2003@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:30:46 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d332b0b0-1076-49f2-a67b-a4a2d766682e",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Jahnavi dhananjay sidam",
+    "Student Email": "jahnavisidam@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:57:33 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c66f8662-def3-42a5-b753-72c403f862f6",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Atharva Ashish Humane",
+    "Student Email": "humaneatharva62@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:59:06 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e7408cac-ab13-4501-8a80-9cbc7d39ec70",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Urjita Sandeep Sawant",
+    "Student Email": "urjita009@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 22:00:14 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e8642634-171d-4612-bf66-e38dd6d5e9b0",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Somesh Karpate",
+    "Student Email": "karpatesomesh09@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:46:24 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e61fb6f1-acd8-42cc-ada9-cae5e9364415",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Supriya Ramdas Mohare",
+    "Student Email": "moharesr0511@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 21:52:42 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/beff9728-d95c-4a74-ab21-94dcd3e0a735",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Vinay Ningappa Kambar",
+    "Student Email": "vinaykambar09@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Tue Sep 26 2023 23:06:27 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/fdf9384f-82b3-4215-9ba7-4f1e17106b74",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Khedkar Karan Bhausaheb",
+    "Student Email": "karank200410@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:10:06 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6d47b71f-dfc2-441f-b1d7-825261a0ef99",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Dhruv Pritu Panchal",
+    "Student Email": "dhruvp2005@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:11:50 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0ef8beec-4508-4399-a58c-bbbe49b45360",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Shaunak Anay Raiker",
+    "Student Email": "shaunak2910@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:26:24 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2d0f215f-7f8f-42f1-be3e-65e139db1ab6",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "OMKAR RAJENDRA PATIL",
+    "Student Email": "ompatil3559@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:27:14 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8487ef54-ebea-4745-a4b1-da798b40ce42",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Jaswant Shriprakash Yadav",
+    "Student Email": "yadavjas01@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:28:06 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5c675c5b-0dd4-4ffb-bdb7-d4398e3d2137",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Krish Bharat Porwal",
+    "Student Email": "krishporwal18@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:22:12 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f5b1c144-3d7f-4202-81f1-36d35563ca02",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Pratik Balasaheb Devakate",
+    "Student Email": "pbdeokate58@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:23:02 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/611300d8-9b2a-44d5-937c-4f783c9d4626",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Bhavana Bhalchandra Burambe",
+    "Student Email": "bhavnaburambe@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:20:21 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8085ed60-5d7e-4bf5-885a-dbd33b9e6024",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Shon Vivek Solanke",
+    "Student Email": "shonsolanke2003@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:30:40 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a111e187-f3bb-4b29-a95d-7baf1dbf7ecc",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Harshala Mahajan",
+    "Student Email": "hsmahajan_b22@it.vjti.ac.in",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 19:40:44 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2a9234fb-3323-4a11-8ada-0d931039c768",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Shreyash Arvind Nikam",
+    "Student Email": "sanikam_b22@it.vjti.ac.in",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 22:30:00 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bed596f8-3a89-41e3-a88b-b1949d062986",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Upadhyay Abhay Rajesh",
+    "Student Email": "urabhay10@gmail.com",
+    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
+    "Enrolment Date & Time": "Thu Sep 28 2023 22:33:38 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/98961fc9-32ed-4da9-bd8c-c2dceec04591",
+    "# of Courses Completed": 4,
+    "# of Skill Badges Completed": 4,
+    "# of GenAI Game Completed": 1,
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
     "Student Name": "Nishith Manish Savla",
     "Student Email": "savla03nishith@gmail.com",
     "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
@@ -91,19 +520,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Omkar Kamleshwar Kambre",
-    "Student Email": "okambre2@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 14:42:49 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/046a4cac-d907-4b26-bee1-270fe5d0bb50",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Mithilesh Nityanand Kawalkar",
     "Student Email": "mnkawalkar.dsa@gmail.com",
     "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
@@ -168,19 +584,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "KASHISH YADAV",
-    "Student Email": "ykashish456@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 14:46:34 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1456e7ff-361b-4417-9de9-856ef0ff8e8e",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Soham Ulhas Kute",
     "Student Email": "sohamuk87@gmail.com",
@@ -220,19 +624,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Sarid Qureshi",
-    "Student Email": "saridqureshi299@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 14:48:59 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/203ae8b6-4239-47f1-9901-214a7c5c695d",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Hrushikesh Mysala",
     "Student Email": "hrushikeshmysala1983@gmail.com",
@@ -285,19 +677,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Minal Ashok Narkhede",
-    "Student Email": "minalnarkhede9@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 15:00:16 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2b0c7024-4da6-4cef-adf8-ab99632f76cf",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Aryaan Pandhare",
     "Student Email": "aapandhare_b21@it.vjti.ac.in",
@@ -311,19 +691,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Chaitra Samant",
-    "Student Email": "chaitrasamant27@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 15:04:48 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2fd6b6ac-f41e-4672-b98d-0fc8de52ff7f",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Vedant shyamsunder berde",
     "Student Email": "vedantberde04@gmail.com",
@@ -480,19 +848,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Manav Prakash Shah",
-    "Student Email": "manavshah1104@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 15:29:19 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/50139f11-8a85-4d37-9ded-803b9beab949",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Neha Kakade",
     "Student Email": "snykakade@gmail.com",
@@ -597,19 +953,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Tanvi Satish Khadpe",
-    "Student Email": "khadpe.tanvi@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 15:47:34 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6c66ab09-91de-4f70-a9af-dce400144017",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Param Umesh Thakkar",
     "Student Email": "paramthakkar864@gmail.com",
@@ -675,19 +1019,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Aadit Prashant Pujari",
-    "Student Email": "appujari80@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 15:55:49 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/75813c24-4593-4a0d-a003-28662771bb22",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Atharva Amol Bane",
     "Student Email": "atharvabane153@gmail.com",
@@ -792,19 +1124,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Jayash Bhuyar",
-    "Student Email": "jayashbhuyar@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 16:01:21 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8555bf4c-1b4c-4507-844d-9f6c3d0a1a8f",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Sahil Jethwani",
     "Student Email": "sahiljethwani201@gmail.com",
@@ -844,19 +1164,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Krinal shah",
-    "Student Email": "krinal0510@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 16:57:56 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/89c31234-b61d-4417-afd6-4d746aaa549f",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Sarvesh Shailesh Bawdekar",
     "Student Email": "sarveshbawdekar@gmail.com",
@@ -961,19 +1269,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Vidhi Gurnani",
-    "Student Email": "vidhig2711@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 17:08:55 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/98f3bc13-878e-4afd-9542-bed79827cfe5",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Kalyan Rajinder Singh Ranjit Singh",
     "Student Email": "rajinderkalyansingh@gmail.com",
@@ -1130,19 +1426,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Sangam Rajkumar Nirala",
-    "Student Email": "srnirala_b22@et.vjti.ac.in",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:08:10 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/aac227dc-c82a-415c-95fb-b094326c5b5b",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Tatvam Vijay Kadam",
     "Student Email": "tatvamk2002@gmail.com",
@@ -1208,19 +1492,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Srushti Vijay Jadhav",
-    "Student Email": "jadhavsrushti1226@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:12:51 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b78280bb-b5b2-463a-8c3b-b90341eb09ac",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Arushi Tiwari",
     "Student Email": "arushiusha.tiwari@gmail.com",
@@ -1260,19 +1532,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Bhavesh Sanjay Wakode",
-    "Student Email": "bhaveshw2002@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:17:59 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bc19ef60-58fd-4cd0-bfbf-8e784ccfe874",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Aaryan Jaydeep Apte",
     "Student Email": "aaryan3108@gmail.com",
@@ -1364,19 +1624,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Prasad Balasaheb Lohakare",
-    "Student Email": "prasadlohakare2003@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:30:46 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d332b0b0-1076-49f2-a67b-a4a2d766682e",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Soham Sameer Kale",
     "Student Email": "sohamskale14032004@gmail.com",
@@ -1533,32 +1781,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Somesh Karpate",
-    "Student Email": "karpatesomesh09@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:46:24 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e61fb6f1-acd8-42cc-ada9-cae5e9364415",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Supriya Ramdas Mohare",
-    "Student Email": "moharesr0511@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:52:42 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/beff9728-d95c-4a74-ab21-94dcd3e0a735",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Viraj Kelshikar",
     "Student Email": "vdkelshikar_m23@mc.vjti.ac.in",
@@ -1611,45 +1834,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Jahnavi dhananjay sidam",
-    "Student Email": "jahnavisidam@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:57:33 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c66f8662-def3-42a5-b753-72c403f862f6",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Atharva Ashish Humane",
-    "Student Email": "humaneatharva62@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 21:59:06 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e7408cac-ab13-4501-8a80-9cbc7d39ec70",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Urjita Sandeep Sawant",
-    "Student Email": "urjita009@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 22:00:14 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e8642634-171d-4612-bf66-e38dd6d5e9b0",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Sudarshan Kumaresan",
     "Student Email": "sudarshan211104@gmail.com",
@@ -1754,19 +1939,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Vinay Ningappa Kambar",
-    "Student Email": "vinaykambar09@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Tue Sep 26 2023 23:06:27 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/fdf9384f-82b3-4215-9ba7-4f1e17106b74",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+  
   {
     "Student Name": "Nishat Dilip Patil",
     "Student Email": "nishatpatil902@gmail.com",
@@ -1949,19 +2122,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Khedkar Karan Bhausaheb",
-    "Student Email": "karank200410@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:10:06 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6d47b71f-dfc2-441f-b1d7-825261a0ef99",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "CHAVAN RUSHIKESH SAYAJI",
     "Student Email": "rushichavan2327@gmail.com",
@@ -1975,19 +2136,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Dhruv Pritu Panchal",
-    "Student Email": "dhruvp2005@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:11:50 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0ef8beec-4508-4399-a58c-bbbe49b45360",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "AKSHITA BHASIN",
     "Student Email": "akshita.bhasin03@gmail.com",
@@ -2079,19 +2228,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Bhavana Bhalchandra Burambe",
-    "Student Email": "bhavnaburambe@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:20:21 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8085ed60-5d7e-4bf5-885a-dbd33b9e6024",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Aryaman Purav",
     "Student Email": "aryaman.purav@gmail.com",
@@ -2104,32 +2241,6 @@
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
-  },
-  {
-    "Student Name": "Krish Bharat Porwal",
-    "Student Email": "krishporwal18@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:22:12 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f5b1c144-3d7f-4202-81f1-36d35563ca02",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Pratik Balasaheb Devakate",
-    "Student Email": "pbdeokate58@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:23:02 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/611300d8-9b2a-44d5-937c-4f783c9d4626",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Siddharth Patil",
@@ -2170,45 +2281,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Shaunak Anay Raiker",
-    "Student Email": "shaunak2910@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:26:24 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2d0f215f-7f8f-42f1-be3e-65e139db1ab6",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "OMKAR RAJENDRA PATIL",
-    "Student Email": "ompatil3559@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:27:14 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8487ef54-ebea-4745-a4b1-da798b40ce42",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Jaswant Shriprakash Yadav",
-    "Student Email": "yadavjas01@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:28:06 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5c675c5b-0dd4-4ffb-bdb7-d4398e3d2137",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Pruthu Raut",
     "Student Email": "pruthu58@gmail.com",
@@ -2235,19 +2308,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Shon Vivek Solanke",
-    "Student Email": "shonsolanke2003@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:30:40 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a111e187-f3bb-4b29-a95d-7baf1dbf7ecc",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Yash Bhavnani",
     "Student Email": "bhavnaniyash18@gmail.com",
@@ -2326,19 +2387,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Harshala Mahajan",
-    "Student Email": "hsmahajan_b22@it.vjti.ac.in",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 19:40:44 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2a9234fb-3323-4a11-8ada-0d931039c768",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Dhruvil Suthar",
     "Student Email": "dtsuthar6@gmail.com",
@@ -2430,19 +2479,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
   },
-  {
-    "Student Name": "Shreyash Arvind Nikam",
-    "Student Email": "sanikam_b22@it.vjti.ac.in",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 22:30:00 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bed596f8-3a89-41e3-a88b-b1949d062986",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Smit Shah",
     "Student Email": "smuffinboy16@gmail.com",
@@ -2482,19 +2519,7 @@
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
-  {
-    "Student Name": "Upadhyay Abhay Rajesh",
-    "Student Email": "urabhay10@gmail.com",
-    "Institution": "Veermata Jijabai Technological Institute (VJTI) - Mumbai",
-    "Enrolment Date & Time": "Thu Sep 28 2023 22:33:38 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/98961fc9-32ed-4da9-bd8c-c2dceec04591",
-    "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 4,
-    "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "Yes",
-    "Redemption Status": "Yes"
-  },
+
   {
     "Student Name": "Ishaan Vinay Chandak",
     "Student Email": "ishaanchandak3@gmail.com",
