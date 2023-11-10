@@ -1,3 +1,6 @@
+![Cover Image](public/assets/cover%20image.png)
+
+
 # Google Cloud Study Jam Leaderboard
 
 Welcome to the Google Cloud Study Jam Leaderboard for GDSC VJTI! 🚀
